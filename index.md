@@ -10,7 +10,6 @@ The leading tools in the RPA market are mentioned below:
 
 These tools are most widely used in organizations for various purposes
 
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
